@@ -1,3 +1,22 @@
 .typewritten {
-    font-family: 'Special Elite', cursive;        
+  font-family: "Special Elite", cursive;
+}
+
+body {
+  margin: 0;
+}
+
+#start {
+  font-family: "Special Elite", cursive;
+  font-size: 2rem;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 600px;
+  width: 100%;
+}
+
+section {
+  margin: 0 auto;
+  padding: 0 1rem;
+  max-width: 600px;
 }
