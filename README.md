@@ -1,1 +1,5 @@
-https://malt9830.github.io/typewriter/typewriter.html
+# Typewriter effect
+
+Made as part of KEA's multimedia design, during third semester front-end development course.
+
+Make it type at https://malthesers.github.io/typewriter/.
